@@ -30,7 +30,7 @@
 
 body.ui-mobile-viewport, div.ui-mobile-viewport
 {
-    background: url("../images/bg.jpg") repeat-x scroll center top #CED8E2;
+  background: url("../images/bg.jpg") repeat-x scroll center top #CED8E2;
     overflow-x: hidden;
 }
 
