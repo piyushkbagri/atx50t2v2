@@ -137,9 +137,7 @@ header.ui-header
     margin: auto;
     padding: .2em ;
     text-align: center;
-    text-shadow: none;
-    
-   
+    text-shadow: none;s 
 }
 
 #atx-question
@@ -150,7 +148,7 @@ header.ui-header
 
 #node-body p, #atx-success-page .content
 {
-    /* text-align: justify;*/
+     text-align: justify;/*05-06-2014*/
      word-wrap: break-word;
 }
 .hdr-bk-btn .ui-btn-right
